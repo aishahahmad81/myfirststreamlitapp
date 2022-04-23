@@ -61,7 +61,7 @@ else:
         bar.progress(i + 1)
         time.sleep(0.1)
 
-    '...and now we\'re done!'
+    '...and now we are done!'
 © 2022 GitHub, Inc.
 Terms
 Privacy
